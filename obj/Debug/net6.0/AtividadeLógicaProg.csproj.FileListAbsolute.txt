@@ -1,0 +1,14 @@
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\bin\Debug\net6.0\AtividadeLógicaProg.exe
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\bin\Debug\net6.0\AtividadeLógicaProg.deps.json
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\bin\Debug\net6.0\AtividadeLógicaProg.runtimeconfig.json
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\bin\Debug\net6.0\AtividadeLógicaProg.dll
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\bin\Debug\net6.0\AtividadeLógicaProg.pdb
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.AssemblyInfoInputs.cache
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.AssemblyInfo.cs
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.dll
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\refint\AtividadeLógicaProg.dll
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.pdb
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\AtividadeLógicaProg.genruntimeconfig.cache
+C:\Users\manha.cetafaju\Downloads\LógicaProg\AtividadeLógicaProg\obj\Debug\net6.0\ref\AtividadeLógicaProg.dll
